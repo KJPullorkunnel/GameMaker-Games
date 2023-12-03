@@ -1,0 +1,1 @@
+currentLives = 3;
